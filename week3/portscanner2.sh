@@ -1,4 +1,4 @@
-!/bin/bash 
+#!/bin/bash 
 
 
 network_prefix=$1
